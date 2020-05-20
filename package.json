@@ -1,9 +1,13 @@
 {
   "name": "next-graphql-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Graphql file support for Nextjs via graphql-tag/loader",
   "main": "index.js",
-  "repository": "git@github.com:Negan1911/next-graphql-loader.git",
+  "bugs": {
+    "url": "https://github.com/Negan1911/next-graphql-loader/issues"
+  },
+  "homepage": "https://github.com/Negan1911/next-graphql-loader",
+  "repository": "https://github.com/Negan1911/next-graphql-loader",
   "author": "Nahuel Veron <nahuelav96@gmail.com>",
   "license": "MIT",
   "private": false,
