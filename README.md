@@ -17,14 +17,14 @@ Then, import the library in your `next.config.js` file.
 
 ```js
 // next.config.js
-const withGraphql = require("next-svgr-react-component");
+const withGraphql = require("next-graphql-loader");
 
 module.exports = withGraphql({});
 ```
 
 or, with `next-compose-plugins`:
 ```js
-const withGraphql = require("next-svgr-react-component");
+const withGraphql = require("next-graphql-loader");
 
 module.exports = withPlugins([withGraphql])
 ```
